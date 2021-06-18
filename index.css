@@ -1,0 +1,20 @@
+#image {
+    /* user story 8 */
+    width: 100%;
+    max-width: min-content;
+
+    /* user story 9 */
+    margin: auto;
+}
+
+#img-div {
+    margin: auto;
+    width: 50%;
+}
+#img-caption {
+    text-align: center;
+}
+#tribute-link {
+    display-style: block;
+    margin: 10px 0 0 0;
+}
