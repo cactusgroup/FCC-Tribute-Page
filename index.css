@@ -4,6 +4,7 @@
     max-width: min-content;
 
     /* user story 9 */
+    display: block;
     margin: auto;
 }
 
