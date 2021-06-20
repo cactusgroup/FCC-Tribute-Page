@@ -7,7 +7,6 @@
     display: block;
     margin: auto;
 }
-
 #img-div {
     margin: auto;
     width: 50%;
@@ -15,7 +14,18 @@
 #img-caption {
     text-align: center;
 }
+
+#tribute-info {
+    margin: auto;
+    width: 75%;
+}
 #tribute-link {
-    display-style: block;
-    margin: 10px 0 0 0;
+    display: block;
+    margin: 10px 42.9%;
+}
+
+@media (max-width: 500px) {
+    #title {
+        font-size: 1.88em;
+    }
 }
